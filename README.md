@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 ¡Hola! Soy Samuel Dzib López.
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy Samuel Dzib López.
 </h1>
 
 🎓 Estudiante de ***Ingeniería en Sistemas Computacionales***, enfocado en el ***desarrollo de software** y la **ciberseguridad***.
