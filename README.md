@@ -14,7 +14,7 @@
 ---
 ## 👤 Introducción
 
-Apasionado por la ***tecnología*** y la ***protección de la información***, me considero una ***persona curiosa***, ***proactiva*** y ***dedicada*** a crear soluciones que aporten valor y sean seguras. Disfruto ***aprender nuevas herramientas*** y ***técnicas***, especialmente en*** seguridad informática***, para aplicarlas en ***proyectos reales***, siempre buscando ***optimizar procesos***, ***automatizar tareas*** y ***mejorar continuamente la resiliencia y protección de los sistemas***.
+Apasionado por la ***tecnología*** y la ***protección de la información***, me considero una ***persona curiosa***, ***proactiva*** y ***dedicada*** a crear soluciones que aporten valor y sean seguras. Disfruto ***aprender nuevas herramientas*** y ***técnicas***, especialmente en ***seguridad informática***, para aplicarlas en ***proyectos reales***, siempre buscando ***optimizar procesos***, ***automatizar tareas*** y ***mejorar continuamente la resiliencia y protección de los sistemas***.
 
 ---
 ## 💼 Experiencia y formación
