@@ -7,9 +7,9 @@
 ---
 ## 🧠 Frase o lema personal
 
->***“Quien quiera paz, que se prepare para la guerra”. (Qui desiderat pacem praeparet bellut). 
+>***“Quien quiera paz, que se prepare para la guerra”. (Qui desiderat pacem praeparet bellut).***
 >
->— Vegecio, siglo IV d.C.***
+>***— Vegecio, siglo IV d.C.***
 
 ---
 ## 👤 Introducción
