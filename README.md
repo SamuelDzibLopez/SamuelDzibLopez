@@ -54,7 +54,7 @@ A lo largo de mi formación he desarrollado, tanto ***proyectos*** enfocados en 
 
 Estos ***proyectos*** reflejan mi interés por la ***ciberseguridad*** y mi compromiso con ***crear soluciones útiles*** y ***educativas***:
 
-1. 🔗 [Pagina de información de Hacking Ético]([Pagina Hacking](https://informationpageforhacking.vercel.app/))  
+1. 🔗 [Página de información de Hacking Ético](https://informationpageforhacking.vercel.app/)
 
 Sitio web informativo sobre ***conceptos***, ***fases***, ***métodos*** y ***herramientas*** del ***Hacking Ético***, enfocado en el ***aprendizaje*** sobre la ***ciberseguridad***.
 
@@ -98,7 +98,7 @@ Se presentan ***estadísticas detalladas*** de la actividad en ***GitHub***, que
   <a href="https://github.com/SamuelDzibLopez" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Portafolio&logo=github&label=&color=282c34&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
-  <a href="ssamuel211102@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:ssamuel211102@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
