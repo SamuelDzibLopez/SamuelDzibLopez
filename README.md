@@ -105,6 +105,6 @@ Se presentan ***estadísticas detalladas*** de la actividad en ***GitHub***, que
 
 ---
 
-_Gracias por visitar mi perfil. 🚀_
+*Gracias por visitar mi perfil. 🚀*
 
 > ***ATTE: DZEL21S.***
