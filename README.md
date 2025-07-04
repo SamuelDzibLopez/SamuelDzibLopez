@@ -68,7 +68,7 @@ Sitio web informativo sobre ***conceptos***, ***fases***, ***métodos*** y ***he
 
 Se presentan ***estadísticas detalladas*** de la actividad en ***GitHub***, que incluyen un resumen de los ***repositorios***, la ***contribución en proyectos*** y los ***lenguajes de programación*** predominantes.
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=SamuelDzibLopez&show_icons=true&theme=dark&count_private=true" alt="Samuel's GitHub stats" />
