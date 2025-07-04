@@ -86,7 +86,9 @@ Se presentan ***estadísticas detalladas*** de la actividad en ***GitHub***, que
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelDzibLopez&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
 ---
+
 ## 🌐 Encuéntrame en:
 
 ***Conecta*** conmigo a través de mis ***perfiles profesionales*** y ***portafolio*** para conocer más sobre ***mi trabajo*** y ***experiencia***.
