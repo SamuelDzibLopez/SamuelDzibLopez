@@ -20,7 +20,7 @@ Apasionado por la ***tecnología*** y la ***protección de la información***, m
 ## 💼 Experiencia y formación
 
 - 🎓 Estudiante de ***Ingeniería en Sistemas Computacionales*** (``Instituto Tecnológico de Mérida``, ``2022-2025``)
-- 🛠 Prácticas profesionales en **Instituto Tecnológico de Mérida**.
+- 🛠 Prácticas profesionales en ***Instituto Tecnológico de Mérida***.
 - 🧠 Participante en ***Hackathon 2024***. (🏆 `1er Lugar`).
 - 🧠 Participante en ***Hackathon 2025***. (🏆 `1er Lugar`).
 
