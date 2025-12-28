@@ -60,8 +60,15 @@ Sitio web informativo sobre ***conceptos***, ***fases***, ***métodos*** y ***he
 
 **Tecnologías utilizadas:**
 
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Git & GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-181717?style=flat&logo=github&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Git & GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-181717?style=flat&logo=github&logoColor=white)
 
+2. 🔗 [Página de información para Desarrollo de Software](https://programming-page-one.vercel/)
+
+Sitio web informativo y academico sobre ***conceptos***, ***fundamentos***, ***lenguajes***, ***frameworks***, ***herramientas*** y ***proyectos*** utiles para aprender sobre el ***Desarrollo de Software***, enfocado en el ***aprendizaje*** sobre la ***Ingeniería en sistemas computacionales***.
+
+**Tecnologías utilizadas:**
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Git & GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 ## 📈 GitHub Stats
