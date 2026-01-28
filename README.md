@@ -70,6 +70,16 @@ Sitio web informativo y academico sobre ***conceptos***, ***fundamentos***, ***l
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Git & GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-181717?style=flat&logo=github&logoColor=white)
 
+3. 🔗 [Electron App Template (Native Desktop Apps)](https://github.com/SamuelDzibLopez/electron-app-template)
+
+Template base para crear ***aplicaciones de escritorio nativas*** utilizando ***Electron***, enfocado en una ***arquitectura limpia***, ***comunicación IPC modular*** y una ***estructura escalable***, inspirado en stacks modernos como ***React*** y ***Next.js***, pero construido únicamente con ***HTML***, ***CSS*** y ***JavaScript***.
+
+El objetivo principal es facilitar la creación de aplicaciones nativas manteniendo el código ***simple***, ***claro*** y ***fácil de mantener***, evitando abstracciones innecesarias.
+
+**Tecnologías utilizadas:**
+
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![electron-builder](https://img.shields.io/badge/-electron--builder-2C2E3B?style=flat)![Git%20%26%20GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-181717?style=flat&logo=github&logoColor=white)
+
 ---
 ## 📈 GitHub Stats
 
