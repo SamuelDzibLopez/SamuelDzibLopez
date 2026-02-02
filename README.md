@@ -36,7 +36,8 @@ Me enfoco en utilizar aquellas que permiten crear ***soluciones eficientes***, *
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-FF5F01?style=flat&logo=astro&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ### Bases de datos
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
 ### Estilos y UI
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) 
@@ -70,7 +71,7 @@ Sitio web informativo y academico sobre ***conceptos***, ***fundamentos***, ***l
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Git & GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-181717?style=flat&logo=github&logoColor=white)
 
-3. 🔗 [Electron App Template (Native Desktop Apps)](https://github.com/SamuelDzibLopez/electron-app-template)
+3. 🔗 [Electron App Template + Server (Native Desktop Apps)](https://github.com/SamuelDzibLopez/ElectronAppTemplate)
 
 Template base para crear ***aplicaciones de escritorio nativas*** utilizando ***Electron***, enfocado en una ***arquitectura limpia***, ***comunicación IPC modular*** y una ***estructura escalable***, inspirado en stacks modernos como ***React*** y ***Next.js***, pero construido únicamente con ***HTML***, ***CSS*** y ***JavaScript***.
 
@@ -78,7 +79,15 @@ El objetivo principal es facilitar la creación de aplicaciones nativas mantenie
 
 **Tecnologías utilizadas:**
 
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![electron-builder](https://img.shields.io/badge/-electron--builder-2C2E3B?style=flat)![Git%20%26%20GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-181717?style=flat&logo=github&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![electron-builder](https://img.shields.io/badge/-electron--builder-2C2E3B?style=flat)![Git%20%26%20GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-181717?style=flat&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+4. 🔗 [Electron App React Template + Server (Native Desktop Apps)](https://github.com/SamuelDzibLopez/ElectronAppReactTemplate)
+
+Template base para crear ***aplicaciones de escritorio nativas*** utilizando ***Electron*** junto con ***React*** y ***React Router DOM***, enfocado en una ***arquitectura limpia***, ***comunicación IPC modular*** y una ***estructura escalable*** para proyectos modernos.
+
+El objetivo principal es facilitar el desarrollo de aplicaciones nativas con una base sólida, organizada y profesional, permitiendo trabajar con ***componentes***, ***rutas*** y ***estado*** de forma clara, conservando un ***código simple***, ***mantenible*** y ***fácil de mantener***.
+
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![electron-builder](https://img.shields.io/badge/-electron--builder-2C2E3B?style=flat)![Git%20%26%20GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-181717?style=flat&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ---
 ## 📈 GitHub Stats
